@@ -2,4 +2,4 @@
 1st repository
 
 Hi All,
-This is an attempt to test how the creaton of new branches work.
+This is an attempt to test how the creation of new branches work.
